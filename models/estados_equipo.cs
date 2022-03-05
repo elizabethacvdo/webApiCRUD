@@ -6,7 +6,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace _2019AM606WACRUD.models
 {
-    public class estados_equipos
+    public class estados_equipo
     {
         [Key]
         public int id_estados_equipo { get; set; }

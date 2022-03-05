@@ -16,6 +16,13 @@ namespace _2019AM606WACRUD
         }
 
         public DbSet<equipos> equipos { get; set; }
+        public DbSet<marcas> marcas { get; set; }
+        public DbSet<estados_equipo> estados_Equipo{ get; set; }
+        public DbSet<tipo_equipo> tipo_equipo{ get; set; }
+
+
+
+
 
     }
 }

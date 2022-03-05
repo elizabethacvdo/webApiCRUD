@@ -100,7 +100,6 @@ C:\practicasasp\practica3\2019AM606WACRUD\bin\Debug\netcoreapp3.0\tr\Microsoft.C
 C:\practicasasp\practica3\2019AM606WACRUD\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\practicasasp\practica3\2019AM606WACRUD\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\practicasasp\practica3\2019AM606WACRUD\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
-C:\practicasasp\practica3\2019AM606WACRUD\obj\Debug\netcoreapp3.0\2019AM606WACRUD.MvcApplicationPartsAssemblyInfo.cache
 C:\practicasasp\practica3\2019AM606WACRUD\bin\Debug\netcoreapp3.0\2019AM606WACRUD.deps.json
 C:\practicasasp\practica3\2019AM606WACRUD\bin\Debug\netcoreapp3.0\2019AM606WACRUD.runtimeconfig.json
 C:\practicasasp\practica3\2019AM606WACRUD\bin\Debug\netcoreapp3.0\2019AM606WACRUD.runtimeconfig.dev.json
@@ -108,3 +107,4 @@ C:\practicasasp\practica3\2019AM606WACRUD\bin\Debug\netcoreapp3.0\2019AM606WACRU
 C:\practicasasp\practica3\2019AM606WACRUD\bin\Debug\netcoreapp3.0\2019AM606WACRUD.pdb
 C:\practicasasp\practica3\2019AM606WACRUD\obj\Debug\netcoreapp3.0\2019AM606WACRUD.dll
 C:\practicasasp\practica3\2019AM606WACRUD\obj\Debug\netcoreapp3.0\2019AM606WACRUD.pdb
+C:\practicasasp\practica3\2019AM606WACRUD\obj\Debug\netcoreapp3.0\2019AM606WACRUD.MvcApplicationPartsAssemblyInfo.cache

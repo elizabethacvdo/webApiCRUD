@@ -24,7 +24,11 @@ namespace _2019AM606WACRUD.Controllers
         [Route("api/equipos")]
         public IActionResult Get()
         {
-            IEnumerable<models.equipos> equipolista = (from e in contexto.equipos select e);
+            var equipolista = (from e in contexto.equipos join m in contexto.marcas on e.marca_id equals m.id_marcas join et in contexto.tipo_equipo
+                                on e.tipo_equipo_id equals et.id_tipo_equipo join es in contexto.estados_Equipo on
+                               e.estado_equipo_id equals es.id_estados_equipo select new
+                               { e.nombre,e.marca_id,m.nombre_marca,es.descripcion
+                               });
             if (equipolista.Count() > 0)
             {
                 return Ok(equipolista);

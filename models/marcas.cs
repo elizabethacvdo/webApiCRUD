@@ -11,7 +11,7 @@ namespace _2019AM606WACRUD.models
     {
 
         [Key]
-        public int id_marca { get; set; }
+        public int id_marcas { get; set; }
         public string nombre_marca { get; set; }
         public char estados { get; set; }
 
